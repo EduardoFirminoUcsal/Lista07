@@ -4,7 +4,7 @@
 <html>
 <head>
 <head>
-<meta charset="UTF-8">
+<meta charset="UTF-8" keyword="WEB" author="Eduardo Lima Firmino / Mateus Martins" keyword="Atividade sobre JSP">
 <title>Resultado</title>
 </head>
 <body>
@@ -21,4 +21,4 @@
 	out.println(resultado);
 	%>
 </body>
-</html>
+</html>s
