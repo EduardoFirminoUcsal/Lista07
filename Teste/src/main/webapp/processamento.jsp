@@ -5,7 +5,7 @@
 <head>
 <head>
 <meta charset="UTF-8" keyword="WEB" author="Eduardo Lima Firmino / Mateus Martins" keyword="Atividade sobre JSP">
-<title>Resultado</title>
+<title>JSP</title>
 </head>
 <body>
 	<h1>Resultado</h1>
